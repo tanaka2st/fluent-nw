@@ -1,0 +1,2 @@
+echo '{"key":"val"}' | fluent-cat my.fromServer -p 24224
+echo '{"key":"val2mongo"}' | fluent-cat mongo.fromServer -p 24224
