@@ -1,0 +1,1 @@
+echo '{"key":"val"}' | fluent-cat my.fromAgent -p 24224
