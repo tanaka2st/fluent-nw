@@ -1,4 +1,5 @@
 $IMAGE = "mongo"
+
 $LINK = "--net=fluent-network"
 $NAME = "fluent-mongo"
 
