@@ -1,4 +1,5 @@
 $IMAGE = "fluent-server"
+
 # $IMAGE = "fluent/fluentd"
 $LINK = "--net=fluent-network"
 $NAME = "fluent-server"
